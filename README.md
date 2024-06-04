@@ -154,3 +154,5 @@ yarn build:web
 The command `yarn release` helps to automate the release process.
 
 Run the command and follow the prompts.
+
+Thank you.
